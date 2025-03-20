@@ -4,7 +4,7 @@ This is a solution to the [Blog preview card challenge on Frontend Mentor](https
 
 ## Screenshot
 
-![](images/screenshot.jpg)
+![](images/screenshot.png)
 
 
 ## Links
