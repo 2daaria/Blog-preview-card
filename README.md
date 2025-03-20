@@ -9,12 +9,11 @@ This is a solution to the [Blog preview card challenge on Frontend Mentor](https
 
 ## Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Blog preview card](https://github.com/2daaria/Blog-preview-card)
+- Live Site URL: [Blog preview card](https://2daaria.github.io/Blog-preview-card/)
 
 ### Built with
 
 - Semantic HTML5 markup
 - CSS custom properties
 - Flexbox
-- Desktop-first workflow
