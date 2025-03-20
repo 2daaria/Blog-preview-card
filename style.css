@@ -10,7 +10,7 @@
     --font-weight-bold: 800;
 }
 
-body {
+main {
     display: flex;
     justify-content: center;
     align-items: center;
